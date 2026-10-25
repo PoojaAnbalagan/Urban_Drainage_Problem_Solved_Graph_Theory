@@ -1,0 +1,8 @@
+condition,family,red,lo,hi
+"Base: betweenness, accurate risk",Base,0.936,-0.132,1.959
+Importance = upstream catchment,Alt. importance measure,0.626,-0.33,1.549
+Importance = oracle (single-pipe impact),Alt. importance measure,-0.404,-1.403,0.603
+Noisy risk estimates (σ=0.5),Noisy risk,1.975,1.193,2.809
+Noisy risk estimates (σ=1.0),Noisy risk,2.094,1.243,3.022
+Risk correlated with structure (ρ=0.5),Correlated risk,2.942,1.966,3.966
+Risk correlated with structure (ρ=1.0),Correlated risk,0.0,0.0,0.0

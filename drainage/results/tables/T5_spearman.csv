@@ -1,0 +1,6 @@
+,risk r,betweenness b,catchment,load L/C,oracle impact
+risk r,1.0,0.04,-0.028,0.067,-0.002
+betweenness b,0.04,1.0,0.415,-0.01,0.418
+catchment,-0.028,0.415,1.0,-0.092,0.264
+load L/C,0.067,-0.01,-0.092,1.0,-0.01
+oracle impact,-0.002,0.418,0.264,-0.01,1.0
